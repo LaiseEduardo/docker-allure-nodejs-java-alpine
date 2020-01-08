@@ -1,0 +1,7 @@
+manifest: 0.0.1
+info:
+  name: docker-allure-nodejs-java-alpine
+  description: Docker image to run allure reports
+  owner: Laise Eduardo
+  technology:
+  - Docker
